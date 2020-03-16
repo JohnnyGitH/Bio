@@ -1,8 +1,26 @@
 - layout: top-middle
-  name: Super awesome project
-  link: github.com/sproogen
-  github: sproogen/resume-theme
+  name: Orbital
+  link: https://github.com/FociSolutions/Orbital
+  github: https://github.com/JohnnyGitH
   quote: >
-    This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+    Orbital is an HTTP mocking framework that enables teams to achieve rapid software development and testing
   description: | # this will include new lines to allow paragraphs
-    I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+    Orbital allows for parallel development between front-end and back-end teams by reducing the dependency of the front-end on the back-end. Normally, creating a back-end API takes many days, if not weeks. During this time, front-end developers have changing API contracts, and have to develop against a moving target. I reviewed and contributed to the project code base and the project documentation as well as the sprint development sessions. I worked on various aspects of this project using C#, HTML/CSS, Angular, Javascript, RabbitMQ / Consul (both in the original Orbital Bus project), XUnit, NSubstitute, GitLAb, Git , Docker, Azure DevOps, .Net core
+
+- layout: top-middle
+  name: Cannabis Company X
+  link: www.google.ca
+  github: https://github.com/JohnnyGitH
+  quote: >
+    Event Aggregation and Event management
+  description: | # this will include new lines to allow paragraphs
+    The Event Aggregator project helped to aggregate all the equipment data in the processing facility. Product would come in from harvest, then picked and trimmed and weighed. We needed all sorts of data collection to really paint a picture of how the facility is running based on the event data. The company wanted to automate its greenhouse operations through the use of robotics and conveyor systems. We focused on developing a robust middleware solutions to interface between the various PLC real-time mechanical control systems and the s ensor networks with the companies ERP and Data Lake solutions. I designed and developed several automated interfaces for 3rd party partners to send inventory and shipping data using C#. Designed event capture APIs for sensor data in the cloud. We created a middleware event aggregator, translation and data extraction application leveraging Azure Event Grid and Azure Event hub endpoints and other cloud resources. I used docker to deploy and test the solutions we created and worked with CI/CD automation in Azure DevOps I worked on various parts of this project using C#, Git, Docker, Consul, Docker, Azure Cloud Services, Azure DevOps, Azure Event Hub, Azure Event Grid, Azure App Insights, .Net core, Visual Studio
+
+- layout: top-middle
+  name: Cannabis Company X
+  link: www.google.ca
+  github: https://github.com/JohnnyGitH
+  quote: >
+    Shipping and Inventory
+  description: | # this will include new lines to allow paragraphs
+    This project was to help the company with the processing and transferring of documentation from themselves, to their respective locations, this includes inventory files for the transfer of product to distributors to ensure correct inventory. The project focuses on creating a solution with real-time tracking of any of the documents being transferred.

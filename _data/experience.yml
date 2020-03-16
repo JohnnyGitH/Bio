@@ -5,8 +5,35 @@
   dates: April 2018 - Present
   quote: >
    We Solve Problems... Period
-  description: | # this will include new lines to allow paragraphs
-    Writing software. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+  description:  # this will include new lines to allow paragraphs
+    Reviewed and contributed to project documentation.
+
+    Participated and contributed to sprint development sessions.
+
+    Refactored code base from C# mono to .Net core
+
+    Designed and developed several automated interfaces for 3rd party partners to send inventory and shipping data using C#
+
+    Designed and developed event capture APIs for sensor data in the cloud.
+
+    Designed and developed event aggregation, translation and data extraction using C#, utilizing Azure Event Grid and Azure Event Hub endpoints and other cloud resources
+
+    Deployed and tested  solutions using Docker
+
+    Orchestrated all runtime components in the cloud using  Azure App Insights
+
+    Worked with CI/CD automation using Azure DevOps
+
+    Participated and contributed to sprint development sessions.
+
+    Contributed to the mapping and parsing of the fixed-width inventory documents
+
+    Combined Azure Cloud Services to allow timed webjobs to automatically check for new documents
+
+    Designed and implemented a storage solution using Azure Storage.
+    
+    Helped configure some CI/CD automation in Azure DevOps
+
 
 - company: Kivuto
   link: https://kivuto.com/

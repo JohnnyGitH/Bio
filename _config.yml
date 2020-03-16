@@ -24,9 +24,29 @@ linkedin_username: jonathan cockrem
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Jonathan and I'm a software developer. I have worked at a number of companies gaining teamwork and leadership skills.
+  Hi, my name's Jonathan and I'm a software developer. Over my career I have worked at a number of companies gaining valuable teamwork and leadership skills. 
 
   I am most skilled in: <mark>C#</mark> and <mark>Hurting myself playing sports</mark>
+  
+  Technical Skills:
+  Application and web development (C#, C, Java, C++, HTML, Javascript, Typescript, .Net)
+
+  Database platforms and query languages (MySQL, MySQL WorkBench, SQLite, Microsoft IIS, Azure, DynamoDB) 
+
+  Development process management (DevOps, source control, continuous integration, code branching and merging strategies, test automation, test-driven development)
+
+  DevOps platforms (GitLab, Azure DevOps, Git Kraken, Powershell, NuGet)
+
+  Tools/Technologies (Microsoft Visual Studio, Eclipse, Sublime Text, Azure, Momentics, Git, Intellij, Junit, Virtual Box)
+
+  Cloud platforms (Azure, Docker)
+
+  Middleware platforms (RabbitMQ, Consul)
+
+  SDLC methodologies (Agile, SCRUM, Waterfall)
+  
+  Operating Systems - Windows variants, Unix, Linux, OS X
+
 
 # Projects Section
 # projects_title: Projects
@@ -41,10 +61,10 @@ about_content: | # this will include new lines to allow paragraphs
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
   Alongside  software, some of my other interests and hobbies are:
-   - Gardening
-   - Renovating the house
-   - Playing basketball or volleyball
-   - Learning guitar
+   - Gardening, I have just started and have learnt so much about various aspects of a garden.
+   - Renovating the house, as a new homeowner in an older house, I have had to learn and fix things myself.
+   - Playing basketball or volleyball weekly. I love these sports and they keep me healthy.
+   - Learning guitar recently, would love to be more proficient with it.
 
 # Footer
 footer_show_references: true
